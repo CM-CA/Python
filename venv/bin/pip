@@ -1,4 +1,4 @@
-#!/home/chichifu/PycharmProjects/Personal/venv/bin/python
+#!/home/chichifu/PycharmProjects/Python/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip'
 __requires__ = 'pip==10.0.1'
 import re
